@@ -1,0 +1,14 @@
+@'
+streamlit==1.65.0
+streamlit-drawable-canvas==0.13.0
+simple-lama-inpainting
+gfpgan
+realesrgan
+basicsr
+facexlib
+lpips
+gdown
+opencv-python
+numpy<2
+pillow<10
+'@ | Set-Content -Encoding ascii requirements.txt

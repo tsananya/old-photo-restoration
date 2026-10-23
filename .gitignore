@@ -1,0 +1,30 @@
+@'
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# cloned third-party repos (README will tell people to clone them)
+CodeFormer/
+Real-ESRGAN/
+GFPGAN/
+lama/
+
+# model weights
+*.pth
+*.pt
+
+# private photos, results and working files
+app_temp/
+pipeline_test/
+results*/
+inputs*/
+scratch/
+*.jpg
+*.jpeg
+*.png
+*.lnk
+
+# except sample images you choose to publish
+!examples/*.jpg
+!examples/*.png
+'@ | Set-Content -Encoding ascii .gitignore
