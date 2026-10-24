@@ -23,9 +23,7 @@ light sharpening, local contrast and optional upscaling.
 
 ## Results
 
-<!-- TODO: add 2-3 before/after pairs you have permission to share, e.g.
-![Example 1](examples/example1.jpg)
-Put the files in an `examples/` folder (they are un-ignored in .gitignore). -->
+Example images coming soon.
 
 ## Settings that matter
 
